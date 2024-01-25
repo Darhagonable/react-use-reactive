@@ -67,8 +67,8 @@
     "react-test-renderer": "^18.2.0",
     "size-limit": "^8.2.4",
     "tsdx": "^0.14.1",
-    "tslib": "^2.5.0",
-    "typescript": "^4.9.5"
+    "tslib": "^2.6.0",
+    "typescript": "^5.3.3"
   },
   "description": "A custom React hook to create reactive objects using useState with support for nested objects.",
   "repository": "git@github.com:wypratama/react-use-reactive.git",
